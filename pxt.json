@@ -1,7 +1,7 @@
 {
-    "name": "ACE-Tinybit",
+    "name": "ACE-Math",
     "version": "2.0.2",
-    "description": "Tinybit",
+    "description": "Math",
     "license": "MIT",
     "dependencies": {
         "core": "*",
